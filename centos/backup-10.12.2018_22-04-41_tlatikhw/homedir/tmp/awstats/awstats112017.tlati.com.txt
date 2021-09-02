@@ -1,0 +1,471 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201711 will be lost/reset.
+# Last config file used to build this data file was /home/tlatikhw/tmp/awstats/awstats.tlati.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2006                
+POS_TIME 2687                
+POS_VISITOR 9955                
+POS_DAY 12793               
+POS_DOMAIN 3418                
+POS_LOGIN 3799                
+POS_ROBOT 3954                
+POS_WORMS 4331                
+POS_EMAILSENDER 4462                
+POS_EMAILRECEIVER 4605                
+POS_SESSION 13249               
+POS_SIDER 13434               
+POS_FILETYPES 4740                
+POS_DOWNLOADS 4986                
+POS_OS 5034                
+POS_BROWSER 5324                
+POS_SCREENSIZE 6341                
+POS_UNKNOWNREFERER 6415                
+POS_UNKNOWNREFERERBROWSER 6870                
+POS_ORIGIN 7269                
+POS_SEREFERRALS 7409                
+POS_PAGEREFS 7553                
+POS_SEARCHWORDS 7782                
+POS_KEYWORDS 7934                
+POS_MISC 2351                
+POS_ERRORS 7993                
+POS_CLUSTER 3655                
+POS_SIDER_404 8125                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20171201113555 8778 2528628 12949241457558
+FirstTime 20171108165729
+LastTime 20171130234007
+LastUpdate 20171202042449 1 0 0 0 0
+TotalVisits 89                  
+TotalUnique 71                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 74                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+JavaEnabled 0 0 0
+TotalMisc 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+QuickTimeSupport 0 0 0
+FlashSupport 0 0 0
+DirectorSupport 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 6 64 4967209 7 8 14852
+1 229 371 6453122 69 69 1599
+2 39 335 2657538 11 18 15360
+3 37 262 5047130 15 20 17135
+4 3 3 2052 0 0 0
+5 2 3 3960 0 3 2560
+6 149 374 2769259 6 10 11155
+7 305 1071 8385713 11 36 66052
+8 2 2 1368 7 11 20656
+9 5 6 8217 4 7 10924
+10 1 1 684 3 5 6488
+11 18 151 2950350 7 13 14399
+12 1 1 684 2 2 1368
+13 1 1 684 1 1 684
+14 9 9 6156 2 4 8364
+15 0 1 2592 1 2 3244
+16 9 9 5472 5 7 8364
+17 0 0 0 2 5 5804
+18 31 197 3847937 12 19 15314
+19 467 3296 35473518 119 206 316488
+20 97 1508 9424321 21 44 58548
+21 153 219 4744637 24 25 3244
+22 53 260 4389770 16 32 46940
+23 10 59 2430092 3 5 6488
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 13
+mx 1541 8057 91062408
+us 50 103 2467136
+ca 10 10 6840
+cn 7 11 15156
+ru 4 4 4941
+kr 4 4 2736
+de 3 3 684
+il 2 3 3960
+in 2 4 6552
+gb 1 1 0
+fr 1 1 684
+es 1 1 684
+ua 1 1 684
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 7
+googlebot 27 18468 20171130233216 0
+spider 15 4788 20171127104054 0
+crawl 5 3420 20171130203905 0
+bot[\s_+:,\.\;\/\\-] 3 2052 20171115003158 0
+no_user_agent 3 2052 20171112200751 0
+bingpreview 2 1368 20171114185019 0
+curl 1 684 20171109201828 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 9
+gif 117 37729 0 0
+eot 1 72449 0 0
+php 1504 41423292 0 0
+woff 15 1172640 0 0
+png 1524 6113901 0 0
+css 1682 14559825 0 0
+html 107 110301 0 0
+js 1401 15640508 0 0
+jpg 1852 14441820 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 18
+win8 1 1
+macosx8 1 1
+Unknown 11 10
+winunknown 1 1
+macosx7 1 1
+macosx5 1 1
+winxp 9 7
+java 1 1
+winme 1 1
+winlong 1 1
+win8.1 129 43
+linuxandroid 221 27
+winnt 8 8
+win2003 1 1
+macosx 7774 1488
+linux 9 6
+win7 30 27
+ios_iphone 3 2
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 52
+firefox1.0 1 1
+chrome53.0.2785.116 1 1
+msie8.0 4 3
+chrome62.0.3202.84 96 8
+safari9.0 1 1
+chrome55.0.2883.87 1 1
+firefox55.0 7765 1481
+chrome53.0.2785.143 2 2
+chrome53.0.2752.0 1 1
+firefox52.0 2 1
+msie10.0 1 0
+firefox47.0 1 1
+mozilla 6 6
+chrome21.0.1180.89 2 2
+safari 2 1
+safari3.0 1 1
+firefox14.0.1 1 1
+safari6.1 1 1
+chrome34.0.1847.114 3 3
+msie7.0 1 1
+chrome61.0.3163.100 6 6
+chrome41.0.2272.118 4 2
+chrome59.0.3071.125 119 14
+firefox42.0 1 1
+safari6.0 2 1
+firefox0.10.1 1 1
+firefox2.0.0.13 1 1
+opera11.01 1 1
+firefox56.0 2 1
+chrome61.0.3116.0 2 1
+chrome55.0.2883.75 2 2
+firefox54.0 1 1
+firefox3.6.13 1 1
+msie11.0 130 44
+chrome45.0.2454.94 1 1
+firefox51.0 2 2
+chrome13.0.782.24 1 1
+chrome51.0.2704.79 1 1
+firefox50.0 1 1
+firefox34.0 1 1
+chrome17.0.963.46 1 1
+opera7.50 1 1
+chrome53.0.2785.34 1 1
+chrome40.0.2214.85 1 1
+firefox13.0.1 2 1
+chrome57.0.2987.98 3 3
+firefox30.0 1 1
+chrome11.0.696.71 6 6
+Unknown 9 8
+firefox33.0 1 1
+firefox41.0 2 0
+chrome31.0.1650.57 2 2
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 8
+Mozilla/5.0/Firefox/42.0_-_nbertaupete95(at)gmail.com 20171108215024
+WhatsApp/2.17.395_A 20171126192324
+Mozilla/5.0_(compatible;_Dataprovider.com;) 20171110163658
+python-requests/2.18.1 20171109120928
+Mozilla/5.0_(compatible;_ips-agent) 20171115030515
+Python/3.6_aiohttp/2.3.2 20171112045756
+python-requests/2.13.0 20171110191850
+python-requests/2.18.4 20171117194712
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 7
+Python/3.6_aiohttp/2.3.2 20171112045756
+Apache-HttpClient/4.5.3_(Java/1.8.0_144) 20171113013409
+WhatsApp/2.17.395_A 20171126192324
+python-requests/2.7.0_CPython/2.7.6_Windows/2008ServerR2 20171109064519
+python-requests/2.18.1 20171109120928
+python-requests/2.18.4 20171117194712
+python-requests/2.13.0 20171110191850
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 228 238
+From1 1 1
+From2 0 0
+From3 2 2
+From4 1396 7962
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 2
+http://www.siteindexed.com/myurl=tlati.com 1 1
+https://mawords.com/tlati.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 5
+302 220 0
+301 11 2310
+400 1 0
+206 2 1368
+404 249 619520
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 29
+/catalog/view/theme/pav_queenbeauty/image/default/bg_menu_hover.png 90 http://tlati.com/catalog/view/theme/pav_queenbeauty/stylesheet/pavmegamenubase.css
+/admin/admin/view/image/pavtwitter/link_icon.png 3 http://tlati.com/admin/index.php
+/admin/image/data/banner/banner3.jpg 7 http://tlati.com/admin/index.php
+/image/cache/data/logo-100x100.png 10 http://tlati.com/admin/index.php
+/adf 1 -
+/wp-json/wp/v2/users/ 1 -
+/wp-login.php 2 -
+/site/ 1 -
+/admin/content/sitetree/ 1 -
+/xmlrpc.php 41 -
+/admin/%3Cb%3EWarning%3C/b%3E:%20imagecreatefromjpeg():%20gd-jpeg,%20libjpeg:%20recoverable%20error:%20Premature%20end%20of%20JPEG%20file%20in%20%3Cb%3E/home/tlatikhw/public_html/system/library/image.php%3C/b%3E%20on%20line%20%3Cb%3E34%3C/b%3E%3Cb%3EWarnin 3 http://tlati.com/admin/index.php
+/admin/image/data/banner/banner2.jpg 7 http://tlati.com/admin/index.php
+/admin/catalog/view/javascript/jquery/colorbox/jquery.colorbox-min.js 3 http://tlati.com/admin/index.php
+/ 1 -
+/admin/image/data/banner/banner1.png 2 http://tlati.com/admin/index.php
+/admin/image/data/banner/banner1.jpg 7 http://tlati.com/admin/index.php
+/sitemap.xml 2 -
+/wordpress/ 1 -
+/manager/ 1 -
+/browserconfig.xml 2 -
+/admin/catalog/view/javascript/jquery/colorbox/colorbox.css 2 http://tlati.com/admin/index.php
+/wp/ 1 -
+/blog/ 1 -
+/js/mage/cookies.js 1 -
+/admin/view/javascript/sliderlayer/jquery-cookie.js 4 http://tlati.com/admin/index.php
+/211301744.html 1 -
+/robots.txt 50 -
+/admin/image/data/paypal.png 2 http://tlati.com/admin/index.php
+/simpla/ 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 74
+201.102.56.13 1481 7765 76897958 20171125221235
+189.216.99.41 52 180 8589773 20171126200645
+45.76.34.216 4 4 2736 20171125143659
+142.4.218.156 3 3 2052 20171110163700
+92.243.95.183 3 3 4257 20171113095237
+66.102.6.224 3 15 966894 20171126232724
+200.68.128.86 3 42 2172651 20171127212549
+211.115.79.122 3 3 2052 20171109145453
+66.102.8.39 2 4 6552 20171110020909
+47.52.211.86 2 2 1368 20171123165401
+200.56.49.197 2 41 2082446 20171126231124
+54.219.178.100 2 2 1368 20171125185151
+54.171.111.225 2 2 1368 20171112045756
+66.102.6.230 2 17 825684 20171126232632
+148.62.14.156 2 2 1368 20171111020901
+187.237.25.70 2 27 1316304 20171128181554
+162.242.156.106 2 2 1368 20171115014252
+158.69.229.134 2 2 1368 20171116080651
+50.125.101.219 2 2 1368 20171124011603
+104.239.149.11 2 2 1368 20171123040252
+144.76.219.43 1 1 0 20171111011614
+184.173.211.19 1 1 684 20171116144909
+82.80.244.59 1 1 684 20171130072258
+199.30.228.131 1 1 684 20171109100148
+184.173.211.16 1 1 684 20171115053736
+140.205.201.11 1 2 3276 20171114073653
+140.205.201.28 0 2 5184 
+206.225.80.193 1 1 0 20171110020835
+112.169.246.50 1 1 684 20171113013409
+202.105.116.213 1 1 684 20171110234943
+66.102.6.228 1 23 634778 20171126232729
+167.114.55.121 1 1 684 20171113062930
+187.208.225.125 1 2 3276 20171114020646
+138.201.60.47 1 1 684 20171109144847
+45.35.109.237 1 1 684 20171109073259
+83.37.57.9 1 1 684 20171110191850
+66.249.91.96 1 2 3276 20171110021049
+117.203.114.183 1 2 3276 20171110055658
+45.56.116.155 1 1 684 20171116045032
+192.0.88.95 0 1 2592 
+67.218.134.221 1 1 684 20171109134120
+82.80.249.214 1 1 684 20171130072246
+183.208.83.129 1 1 684 20171111161708
+117.204.218.223 1 2 3276 20171116095409
+170.130.63.125 1 1 684 20171110185921
+162.244.33.8 1 1 684 20171109071615
+114.238.131.143 1 1 684 20171114063947
+158.69.64.72 1 1 684 20171109120928
+194.28.172.172 1 1 684 20171114141343
+38.100.21.171 1 1 684 20171108202625
+204.44.65.210 1 1 684 20171108201113
+34.229.134.201 1 1 684 20171108215024
+178.79.184.155 1 1 0 20171117194712
+54.234.196.172 1 1 684 20171114184807
+13.65.197.38 1 1 684 20171110080849
+35.165.83.152 1 1 684 20171109011523
+175.42.43.37 1 1 684 20171114182302
+185.199.225.55 1 1 684 20171110235032
+138.246.253.19 1 1 0 20171108165729
+140.205.201.10 1 2 3276 20171114073652
+54.67.67.222 1 1 684 20171124000615
+52.53.129.36 1 1 684 20171128181456
+52.88.111.53 1 1 684 20171130234007
+216.55.138.168 1 1 684 20171110020833
+69.58.178.57 1 1 684 20171115030515
+34.212.65.157 1 1 684 20171109235544
+52.203.150.80 1 1 684 20171109191909
+52.179.13.10 1 1 684 20171109064519
+62.4.15.127 1 1 684 20171117144502
+82.80.230.228 0 1 2592 
+18.221.69.1 1 1 684 20171115163910
+52.16.189.211 1 1 684 20171111090124
+59.61.185.27 1 1 684 20171111004851
+192.99.188.206 1 1 684 20171115201210
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 17
+20171108 4 4 2052 4
+20171109 33 167 2963202 15
+20171110 48 276 5061746 12
+20171111 7 8 6696 7
+20171112 1 1 684 1
+20171113 135 337 6447665 5
+20171114 611 4932 40390558 9
+20171115 451 1486 13150372 8
+20171116 4 5 5328 4
+20171117 2 2 684 2
+20171123 5 5 3420 4
+20171124 3 3 2052 2
+20171125 254 627 8944148 3
+20171126 60 276 13099575 7
+20171127 3 42 2172651 1
+20171128 3 28 1316988 2
+20171130 3 4 4644 3
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 5
+30mn-1h 4
+0s-30s 77
+1h+ 2
+30s-2mn 3
+15mn-30mn 3
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 8
+/admin/index.php 1303 20208403 3 4
+/index.php 200 21187610 9 10
+/ 93 60192 76 70
+/catalog/view/theme/pav_queenbeauty/fonts/fontawesome-webfont.woff 14 1088880 1 4
+/admin/ 14 50109 0 1
+/catalog/view/theme/pav_queenbeauty/fonts/fontawesome-webfont.eot 1 72449 0 0
+/errors/SingleDomainHosting.php 1 27279 0 0
+//catalog/view/theme/pav_queenbeauty/fonts/fontawesome-webfont.woff 1 83760 0 0
+END_SIDER

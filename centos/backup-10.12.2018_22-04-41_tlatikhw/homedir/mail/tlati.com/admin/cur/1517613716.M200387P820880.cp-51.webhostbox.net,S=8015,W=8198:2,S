@@ -1,0 +1,183 @@
+Return-Path: <no_reply_support@trust-provider.com>
+Delivered-To: admin@tlati.com
+Received: from cp-51.webhostbox.net
+	by cp-51.webhostbox.net (Dovecot) with LMTP id KS3gC5TydFqQhgwAvXZJhQ
+	for <admin@tlati.com>; Fri, 02 Feb 2018 23:21:56 +0000
+Return-path: <no_reply_support@trust-provider.com>
+Envelope-to: admin@tlati.com
+Delivery-date: Fri, 02 Feb 2018 23:21:56 +0000
+Received: from opsmail.colo.comodo.com ([91.209.196.133]:40915 helo=mcmail3.mcr.colo.comodo.net)
+	by cp-51.webhostbox.net with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.89)
+	(envelope-from <no_reply_support@trust-provider.com>)
+	id 1ehkeP-003RfC-E1
+	for admin@tlati.com; Fri, 02 Feb 2018 23:21:56 +0000
+Received: (qmail 19591 invoked by uid 1008); 2 Feb 2018 23:21:02 -0000
+Received: from oracletwo_mcr.mcr.colo.comodo.net (HELO saspmail.colo.comodo.net) (192.168.128.22)
+    by mcmail3.mcr.colo.comodo.net (qpsmtpd/0.84) with SMTP; Fri, 02 Feb 2018 23:21:02 +0000
+Subject: ORDER #119070619 - Domain Control Validation for tlati.com
+From: "Comodo Security Services" <noreply_support@comodo.com>
+To: "admin@tlati.com" <admin@tlati.com>
+Date: Fri, 02 Feb 2018 23:20:33 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="(h0td5k5siebkc_ka)"
+Message-ID: <QQeGsQrb3iK6N9QZmcATMg@mcmail3.mcr.colo.comodo.net>
+X-Authenticated_sender: 
+X-Spam-Status: No, score=-0.9
+X-Spam-Score: -8
+X-Spam-Bar: /
+X-Ham-Report: HEADER_FROM_DIFFERENT_DOMAINS=0.25, HTML_MESSAGE=0.001, RCVD_IN_DNSWL_MED=-2.3, SPF_HELO_PASS=-0.001, SPF_PASS=-0.001, TRACKER_ID=1.102, URIBL_BLOCKED=0.001, CMAE Analysis: v=2.2 cv=SoPg0LG0 c=1 sm=0 tr=0 a=ga8PK0V/OXKXKT2bLD0Jrw==:17 a=Op4juWPpsa0A:10 a=hfTiZ8VwGXL7uml6QSMA:9 a=KyE_jpyzoAHie57Y:21 a=IjTI97EVtWg5orFW:21 a=QEXdDO2ut3YA:10 a=XOhof4G-0H8A:10 a=XCSUJlpxIikA:10 a=HtH9k9cMIPwA:10 a=UtelWXj5Uq0A:10 a=FL1UUjAWuqI8i5gluJwA:9 a=_GqSWoV0SEV-lnUV:21 a=quoFPWx7fVEV65St:21 a=-H-FTg0O3WrfDOvZ:21 a=_W_S_7VecoQA:10 a=frz4AuCg-hUA:10
+ 
+ *  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+ *       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+ *      for more information.
+ *      [URIs: tlati.com]
+ * -2.3 RCVD_IN_DNSWL_MED RBL: Sender listed at http://www.dnswl.org/,
+ *      medium trust
+ *      [91.209.196.133 listed in list.dnswl.org]
+ * -0.0 SPF_HELO_PASS SPF: HELO matches SPF record
+ * -0.0 SPF_PASS SPF: sender matches SPF record
+ *  0.2 HEADER_FROM_DIFFERENT_DOMAINS From and EnvelopeFrom 2nd level mail
+ *      domains are different
+ *  1.1 TRACKER_ID BODY: Incorporates a tracking ID number
+ *  0.0 HTML_MESSAGE BODY: HTML included in message
+X-Spam-Flag: NO
+
+--(h0td5k5siebkc_ka)
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Dear admin@tlati.com,
+
+We have received a request to issue an SSL certificate for:
+Domain: tlati.com
+Subject: 
+             paginas web baratas
+
+
+
+To permit the issuance of the certificate please browse to
+https://secure.comodo.com/products/EnterDCVCode?orderNumber=119070619
+and enter the following "validation code":
+
+        ve6st9FcMIcZWYc52jmQWo5VCoob0DWH
+
+
+
+**************PLEASE NOTE CHOOSING THE OPTION BELOW WILL REJECT THE CERTIFICATE**************
+If neither you nor a trusted colleague made this request for a certificate then
+you can reject it by browsing to:
+
+https://secure.comodo.com/products/RejectDCVCode?orderNumber=119070619&dcvCode=ve6st9FcMIcZWYc52jmQWo5VCoob0DWH
+
+
+Kind Regards,
+
+
+Comodo Security Services on behalf of directi
+
+Support Telephone: +1.888.266.6361 / +1.703.581.6361
+Support Website: http://support.comodo.com
+Validation Docs Fax: US and Canada +1.866.831.5837 / Worldwide +1.801.303.9291
+We now operate a registration-based system for support.
+Please submit your ticket at the support website.
+Please do not reply to this email as this email address is not monitored.
+
+Comodo Group, Inc. - US Office
+1255 Broad Street
+Clifton, NJ 07013-3398
+United States
+
+Comodo CA Limited - European Office
+3rd Floor Building 26
+Office Village, Exchange Quay
+Trafford Road
+Manchester M5 3EQ
+United Kingdom
+
+--(h0td5k5siebkc_ka)
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+  <style type=text/css>
+  <!--
+    body { font-family: Arial, Helvetica, sans-serif; font-size: 10pt }
+    p { font-family: Arial, Helvetica, sans-serif; font-size: 10pt }
+    pre { font-family: Arial, Helvetica, sans-serif; font-size: 10pt }
+    pre.validate { font-family: Arial, Helvetica, sans-serif; font-size:11pt; color:#007A00; font-weight: bold;}
+    pre.reject { font-family: Arial, Helvetica, sans-serif; font-size:7pt; color:#FF0000; font-weight: bold;}
+    td { font-family: Arial, Helvetica, sans-serif; font-size: 10pt }
+    .p8 { font-family: Arial, Helvetica, sans-serif; font-size: 8pt; font-weight: normal }
+    .p4 { font-family: Arial, Helvetica, sans-serif; font-size: 10pt; color: #006699; font-weight: bold }
+    A:link    { font-family: Arial; color: #000066; font-weight: bold; text-decoration: underline }
+    A:visited { font-family: Arial; color: #000066; font-weight: bold; text-decoration: underline }
+    A:active  { font-family: Arial; color: #000066; font-weight: bold; text-decoration: underline }
+    A:hover   { font-family: Arial; color: #003399; font-weight: bold; text-decoration: underline }
+    .title { font-family: Arial, Helvetica, sans-serif; font-size: 11pt; font-weight: bold; color: #003399 }
+    -->
+  </style>
+</head>
+<body bgcolor=#CCCCCC text=#000000 leftmargin=4 topmargin=5>
+<table width=780 border=0 cellspacing=0 cellpadding=1 align=left>
+  <tr><td align=left><img border="0" src="http://secure.comodo.com/images/banners/logo_comodo.png"></td></tr>
+  <tr>
+    <td bgcolor=#000000>
+      <table width=780 border=0 cellspacing=0 cellpadding=3 align=left>
+        <tr>
+          <td bgcolor=#FFFFFF>
+            <br><font size=2 class=title>Domain Control Validation for:tlati.com</font>
+          </td>
+        </tr>
+        <tr>
+          <td bgcolor=#FFFFFF colspan=2>
+            <p><br>Dear admin@tlati.com,</p>
+            <pre>
+We have received a request to issue an SSL certificate for:
+Domain: tlati.com
+Subject: 
+             paginas web baratas
+<br></pre>
+            <pre class="validate">
+<b>To permit the issuance of the certificate please browse <a href="https://secure.comodo.com/products/EnterDCVCode?orderNumber=119070619"><font color=#007A00>here</font></a>
+and enter the following "validation code":</b></pre>
+            <pre class="validate" style="text-align:center;"><b>ve6st9FcMIcZWYc52jmQWo5VCoob0DWH</b></pre>
+            <pre class="reject"><br><br><br><br>
+**************PLEASE NOTE CHOOSING THE OPTION BELOW WILL REJECT THE CERTIFICATE**************
+            If neither you nor a trusted colleague made this request for
+            a certificate then you can reject it by browsing to <a href="https://secure.comodo.com/products/RejectDCVCode?orderNumber=119070619&dcvCode=ve6st9FcMIcZWYc52jmQWo5VCoob0DWH"><font color=#FF0000>Reject</font></a></pre>
+<p><br>Kind Regards,</p>
+<p><br><b>Comodo Security Services</b> on behalf of <b>directi</b></p>
+<p>
+  <b>Support Telephone:</b> +1.888.266.6361 / +1.703.581.6361<br>
+  <b>Support Website:</b>
+  <a href="http://support.comodo.com" target="_blank">http://support.comodo.com</a><br>
+  <b>Validation Docs Fax:</b> US and Canada +1.866.831.5837 / Worldwide +1.801.303.9291<br>
+<br>We now operate a registration-based system for support.
+<br>Please submit your ticket at the
+<a href="http://support.comodo.com">support website</a>.
+<br>Please <u>do not reply to this email</u> as this email address is not
+monitored.<br>
+<br><b>Comodo Group, Inc. - US Office</b><br>
+1255 Broad Street<br>
+Clifton, NJ 07013-3398<br>
+United States<br><br>
+<b>Comodo CA Limited - European Office</b><br>
+3rd Floor Building 26<br>
+Office Village, Exchange Quay<br>
+Trafford Road<br>
+Manchester M5 3EQ<br>
+United Kingdom<br>
+</p>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+</body>
+</html>
+
+--(h0td5k5siebkc_ka)--
+

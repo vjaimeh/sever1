@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<jnlp codebase="http://52.1.113.227:8080/pos112bTerminal/" href="launch.jnlp" spec="1.0+">
+    <information>
+        <title>pos112bTerminal</title>
+        <vendor>Sensei</vendor>
+        <homepage href=""/>
+        <description>pos112bTerminal</description>
+        <description kind="short">pos112bTerminal</description>
+    <icon href="icons8-bill-64.png" kind="default"/>
+</information>
+    <update check="always"/>
+    <security>
+<all-permissions/>
+</security>
+    <resources>
+        <j2se version="1.8+"/>
+        <jar href="pos112bTerminal.jar" main="true"/>
+    <jar href="lib/mysql-connector-java-5.1.23-bin.jar"/>
+<jar href="lib/pos112bLibs.jar"/>
+<jar href="lib/AbsoluteLayout.jar"/>
+</resources>
+    <application-desc main-class="pos112bterminal.Pos112bTerminal">
+    </application-desc>
+</jnlp>

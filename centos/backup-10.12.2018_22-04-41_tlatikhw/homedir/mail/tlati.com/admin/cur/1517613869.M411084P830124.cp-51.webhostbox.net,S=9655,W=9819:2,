@@ -1,0 +1,164 @@
+Return-Path: <support@comodo.com>
+Delivered-To: admin@tlati.com
+Received: from cp-51.webhostbox.net
+	by cp-51.webhostbox.net (Dovecot) with LMTP id IScyGC3zdFqsqgwAvXZJhQ
+	for <admin@tlati.com>; Fri, 02 Feb 2018 23:24:29 +0000
+Return-path: <support@comodo.com>
+Envelope-to: admin@tlati.com
+Delivery-date: Fri, 02 Feb 2018 23:24:29 +0000
+Received: from opsmail.colo.comodo.com ([91.209.196.133]:47713 helo=mcmail3.mcr.colo.comodo.net)
+	by cp-51.webhostbox.net with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.89)
+	(envelope-from <support@comodo.com>)
+	id 1ehkgp-003TU0-3Y
+	for admin@tlati.com; Fri, 02 Feb 2018 23:24:29 +0000
+Received: (qmail 20533 invoked by uid 1008); 2 Feb 2018 23:23:32 -0000
+Received: from oracletwo_mcr.mcr.colo.comodo.net (HELO saspmail.colo.comodo.net) (192.168.128.22)
+    by mcmail3.mcr.colo.comodo.net (qpsmtpd/0.84) with SMTP; Fri, 02 Feb 2018 23:23:32 +0000
+Subject: ORDER #119070619 - Your COMODO SSL TrustLogo is ready!
+From: "Comodo Security Services" <noreply_support@comodo.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="(AlternativeBoundary)"
+Content-Transfer-Encoding: 8bit
+To: "admin@tlati.com" <admin@tlati.com>
+Date: Fri, 02 Feb 2018 23:23:02 +0000
+Message-ID: <hfXZ8kdtPCGIUx4Wrola8g@mcmail3.mcr.colo.comodo.net>
+X-Authenticated_sender: 
+X-Spam-Status: No, score=-2.3
+X-Spam-Score: -22
+X-Spam-Bar: --
+X-Ham-Report: HTML_MESSAGE=0.001, RCVD_IN_DNSWL_MED=-2.3, SPF_HELO_PASS=-0.001, SPF_PASS=-0.001, T_RP_MATCHES_RCVD=-0.01, URIBL_BLOCKED=0.001, CMAE Analysis: v=2.2 cv=SoPg0LG0 c=1 sm=0 tr=0 a=ga8PK0V/OXKXKT2bLD0Jrw==:17 a=Op4juWPpsa0A:10 a=_O_OdKaW3Wl8Onu2024A:9 a=F_HSX2ncfgfsUA4Q:21 a=v9uLpqCF18_D3WAO:21 a=QEXdDO2ut3YA:10 a=XCSUJlpxIikA:10 a=HtH9k9cMIPwA:10 a=UtelWXj5Uq0A:10 a=jyKjjaHlwlwA:10 a=1wMNm3BINzgA:10 a=MFSjGPecwNEA:10 a=76Z5sPaD-EcA:10 a=SHE-g8bchyGQ9XbGNkEA:9 a=EdxvGhaxvAWqP061:21 a=WtZn9ftSYq6ZYNsW:21 a=LsrxhH8o0XwGAeUy:21 a=_W_S_7VecoQA:10 a=6kodvR8wCXkA:10
+ 
+ *  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+ *       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+ *      for more information.
+ *      [URIs: comodo.com]
+ * -2.3 RCVD_IN_DNSWL_MED RBL: Sender listed at http://www.dnswl.org/,
+ *      medium trust
+ *      [91.209.196.133 listed in list.dnswl.org]
+ * -0.0 T_RP_MATCHES_RCVD Envelope sender domain matches handover relay
+ *      domain
+ * -0.0 SPF_HELO_PASS SPF: HELO matches SPF record
+ * -0.0 SPF_PASS SPF: sender matches SPF record
+ *  0.0 HTML_MESSAGE BODY: HTML included in message
+X-Spam-Flag: NO
+
+--(AlternativeBoundary)
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Your COMODO SSL TrustLogo for *.tlati.com/* is ready!
+
+Dear admin@tlati.com,
+
+Thank you for selecting Comodo to provide your SSL security solution. In order to leverage the maximum return from your SSL investment you, as a valued customer, are entitled to display a FREE TrustLogo site seal on your website to demonstrate to your customers that your site is secure and can be trusted. 
+
+Collect your seal from http://www.trustlogo.com/install/index.html
+
+We recommend that your COMODO SSL TrustLogo be displayed on the home page of your site so that your customers will get the maximum visibility of your commitment to the security of their transactions, serving to inspire confidence.
+Within the management area of your account you will be able to view feedback on how many customers need to verify your identity on a daily basis. See for yourself how your SSL investment can pay for itself in a matter of days or even hours! None of our competitors can offer you this essential functionality. 
+Should you encounter any problems with installing your COMODO SSL TrustLogo, please contact us via http://support.comodo.com/, we will be happy to help. When contacting support, please provide the URL of your webpage.
+
+Kind Regards,
+
+Comodo Security Services
+
+Support Telephone: +1.703.581.6361
+Support Website: http://support.comodo.com/
+Validation Docs Fax: US and Canada +1.866.831.5837 / Worldwide +1.801.303.9291
+
+We now operate a registration-based system for support. 
+Please submit your ticket at the support website. 
+Please do not reply to this email as this email address is not monitored.
+
+Comodo CA Limited - US Office
+525 Washington Blvd.
+Jersey City, NJ 07310-1600
+
+Comodo CA Limited - European Office
+26 Office Village,
+Exchange Quay, Trafford Road,
+Salford, Manchester M5 3EQ,
+United Kingdom
+
+Comodo<http://www.comodo.com> offers essential infrastructure to enable e-merchants, and other Internet-connected companies, software providers, and individual consumers to interact and conduct business via the Internet safely and securely.
+Our PKI<http://www.instantssl.com/ssl-certificate-products/ssl-certificate-epki.html> solutions, including SSL<http://www.instantssl.com/ssl-certificate-products/ssl.html> Certificates, EV<http://www.instantssl.com/ssl-certificate-products/ssl/ssl-certificateev.html> SSL Certificates, Code Signing<http://www.instantssl.com/code-signing> Certificates as well as Secure<http://www.instantssl.com/ssl-certificate-products/free-email-certificate.html> E-Mail Certificates, increase consumer trust in transacting business online, secure information through strong SSL encryption, and satisfy many industry best practices or security compliance requirements. 
+
+--(AlternativeBoundary)
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+<style>
+body{ font-family: Arial, Helvetica, sans-serif; font-size: 11px; font-style: normal; font-weight: normal; font-variant: normal; color: #000000; background-color: #FFFFFF; }
+h1{ font-size:12px; color:#333399; }
+p {  font-size: 11px; }
+a{ color:#000066; font-weight:bold; text-decoration:underline; }
+td { font-family: Arial, Helvetica, sans-serif; font-size: 11pt; }
+</style>
+</head>
+<body bgcolor=#CCCCCC text=#000000 leftmargin=4 topmargin=5>
+<table width=780 border=0 cellspacing=0 cellpadding=1 align=left>
+  <tr><td align=left><img border="0" src="http://secure.comodo.com/images/banners/logo_comodo.png"></td></tr>
+  <tr>
+    <td bgcolor=#000000>
+      <table width=780 border=0 cellspacing=0 cellpadding=3 align=left>
+        <tr>
+          <td bgcolor=#FFFFFF>
+            <br><h1>Your COMODO SSL TrustLogo for *.tlati.com/* is ready!</h1>
+          </td>
+        </tr>
+        <tr>
+          <td bgcolor=#FFFFFF>
+		<p><br>Dear admin@tlati.com,</p>
+		<p>Thank you for selecting Comodo to provide your SSL security solution. In
+		order to leverage the maximum return from your SSL investment you, as a
+		valued customer, are entitled to display a FREE TrustLogo site seal on your
+		website to demonstrate to your customers that your site is secure and can be
+		trusted.
+		</p><p>
+		Collect your seal from:<br>
+		<a href="http://www.trustlogo.com/install/index.html">http://www.trustlogo.com/install/index.html</a>
+		</p>
+		<p>We recommend that your COMODO SSL TrustLogo be displayed on the home page of your site so that your customers will get the maximum visibility of your commitment to the security of their transactions, serving to inspire confidence.</p>
+		<p>Within the management area of your account you will be able to view feedback on how many customers need to verify your identity on a daily basis. See for yourself how your SSL investment can pay for itself in a matter of days or even hours! None of our competitors can offer you this essential functionality.</p>
+		<p>Should you encounter any problems with installing your COMODO SSL TrustLogo, please contact <a href="http://support.comodo.com/">http://support.comodo.com/</a> , we will be happy to help. When contacting support, please provide the URL of your webpage.</p>
+		<p>Kind regards<br>
+		Comodo Security Services</p>
+		<p>
+		<b>Support Telephone:<b> +1.703.581.6361<br>
+		<b>Support Website:<b> <a href="http://support.comodo.com/">http://support.comodo.com/</a><br>
+		<b>Validation Docs Fax<b>: US and Canada +1.866.831.5837 / Worldwide +1.801.303.9291<br>
+		</p>
+		<p>
+		We now operate a registration-based system for support.<br>
+		Please submit your ticket at the support website.<br>
+		Please do not reply to this email as this email address is not monitored.<br>
+		</p>
+		<p>
+		<b>Comodo CA Limited - US Office</b><br>
+		525 Washington Blvd.<br>
+		Jersey City, NJ 07310-1600<br>
+		</p>
+		<p>
+		<b>Comodo CA Limited - European Office</b><br>
+		26 Office Village,<br>
+		Exchange Quay, Trafford Road,<br>
+		Salford, Manchester M5 3EQ,<br>
+		United Kingdom<br>
+		</p>
+		<p>
+		<a href="http://www.comodo.com" target=_blank>Comodo</a> offers essential infrastructure to enable e-merchants, and other Internet-connected companies, software providers, and individual consumers to interact and conduct business via the Internet safely and securely. Our <a href="http://www.instantssl.com/ssl-certificate-products/ssl-certificate-epki.html">PKI</a>solutions, including <a href="http://www.instantssl.com/ssl-certificate-products/ssl.html">SSL Certificates</a>, <a href="http://www.instantssl.com/ssl-certificate-products/ssl/ssl-certificate-ev.html">EV SSL Certificates</a>, <a href="http://www.instantssl.com/code-signing">Code Signing Certificates</a> as well as <a href="http://www.instantssl.com/ssl-certificate-products/free-email-certificate.html">Secure E-Mail Certificates</a>, increase consumer trust in transacting business online, secure information through strong SSL encryption, and satisfy many industry best practices or security compliance requirements.
+		</p>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+</body>
+</html>
+
+--(AlternativeBoundary)--
+

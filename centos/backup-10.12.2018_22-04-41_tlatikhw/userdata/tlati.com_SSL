@@ -1,0 +1,43 @@
+--- 
+customlog: 
+  - 
+    format: combined
+    target: /usr/local/apache/domlogs/tlati.com
+  - 
+    format: "\"%{%s}t %I .\\n%{%s}t %O .\""
+    target: /usr/local/apache/domlogs/tlati.com-bytes_log
+  - 
+    format: combined
+    target: /usr/local/apache/domlogs/tlati.com-ssl_log
+directoryhometlatikhwpublichtmlcgibin: 
+  ssloptions: +StdEnvVars
+documentroot: /home/tlatikhw/public_html
+group: tlatikhw
+hascgi: 1
+homedir: /home/tlatikhw
+ip: 209.99.16.119
+ipv6: ~
+owner: root
+phpopenbasedirprotect: 1
+port: 443
+scriptalias: 
+  - 
+    path: /home/tlatikhw/public_html/cgi-bin/
+    url: /cgi-bin/
+secruleengineoff: ~
+serveradmin: webmaster@tlati.com
+serveralias: www.tlati.com mail.tlati.com mail.tlati.com.cp-51.webhostbox.net www.tlati.com.cp-51.webhostbox.net tlati.com.cp-51.webhostbox.net
+servername: tlati.com
+setenvif: 
+  - 
+    attribute: User-Agent
+    env_variables: nokeepalive ssl-unclean-shutdown
+    regex: "\".*MSIE.*\""
+ssl: 1
+sslcacertificatefile: /var/cpanel/ssl/installed/cabundles/COMODO_CA_Limited_dbe3e9376d3359020526b6bc3f725c0f_1865548799.cabundle
+sslcertificatefile: /var/cpanel/ssl/installed/certs/tlati_com_d0dc2_7d113_1549151999_5807fe2b4d381abad93022d6fd13221a.crt
+sslcertificatekeyfile: /var/cpanel/ssl/installed/keys/d0dc2_7d113_8d16b83d203fd7d7efd85e683e7b757f.key
+sslengine: 'on'
+usecanonicalname: 'Off'
+user: tlatikhw
+userdirprotect: ''

@@ -1,0 +1,387 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201805 will be lost/reset.
+# Last config file used to build this data file was /home/tlatikhw/tmp/awstats/awstats.tlati.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2006                
+POS_TIME 2681                
+POS_VISITOR 7984                
+POS_DAY 9616                
+POS_DOMAIN 3327                
+POS_LOGIN 3688                
+POS_ROBOT 3843                
+POS_WORMS 4159                
+POS_EMAILSENDER 4290                
+POS_EMAILRECEIVER 4433                
+POS_SESSION 10231               
+POS_SIDER 10378               
+POS_FILETYPES 4568                
+POS_DOWNLOADS 4710                
+POS_OS 4758                
+POS_BROWSER 4969                
+POS_SCREENSIZE 5589                
+POS_UNKNOWNREFERER 5663                
+POS_UNKNOWNREFERERBROWSER 6353                
+POS_ORIGIN 6473                
+POS_SEREFERRALS 6607                
+POS_PAGEREFS 6751                
+POS_SEARCHWORDS 6957                
+POS_KEYWORDS 7109                
+POS_MISC 2345                
+POS_ERRORS 7168                
+POS_CLUSTER 3544                
+POS_SIDER_404 7259                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20180601003503 8 1309 17504022727667
+FirstTime 20180501015719
+LastTime 20180531175038
+LastUpdate 20180601044127 8 0 7 0 0
+TotalVisits 74                  
+TotalUnique 41                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 42                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+PDFSupport 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+TotalMisc 0 0 0
+QuickTimeSupport 0 0 0
+RealPlayerSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+AddToFavourites 0 0 0
+JavaEnabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 4 5 5328 1 5 264756
+1 6 6 4104 1 1 684
+2 3 3 2052 5 5 178102
+3 3 3 2052 4 6 266125
+4 2 2 684 4 6 266124
+5 5 5 3420 1 1 684
+6 7 7 4104 4 7 354146
+7 4 4 2736 2 3 89392
+8 2 2 1368 4 7 266808
+9 4 4 2736 2 4 177416
+10 3 3 2052 5 6 265446
+11 1 1 0 4 5 178101
+12 0 0 0 1 1 684
+13 3 3 1368 7 9 268171
+14 4 4 2736 3 3 176744
+15 2 2 684 2 5 265440
+16 1 1 684 4 7 266808
+17 3 3 2052 1 1 684
+18 2 2 1368 5 9 354831
+19 2 2 1368 1 3 91268
+20 4 4 2736 8 13 827289
+21 5 5 3420 2 4 177416
+22 6 21 382452 7 12 618907
+23 4 4 2736 0 0 0
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 12
+us 32 32 21888
+de 15 15 8208
+gb 9 9 6156
+cn 6 6 4104
+ca 4 4 2052
+mx 3 18 380400
+ru 3 3 2052
+ua 3 3 1368
+il 2 3 3960
+ie 1 1 684
+nl 1 1 684
+ro 1 1 684
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 5
+spider 28 19152 20180529192507 0
+googlebot 23 15732 20180531214948 0
+bot[\s_+:,\.\;\/\\-] 4 2052 20180530045456 0
+no_user_agent 3 121683 20180521203912 0
+crawl 2 1368 20180527142741 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 5
+png 9 25158 0 0
+css 2 43769 0 0
+js 5 309786 0 0
+html 79 53527 0 0
+xml 1 0 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 12
+macosx 27 27
+Unknown 18 18
+winnt 4 4
+win8.1 18 3
+win2003 1 1
+winxp 2 2
+macosx9 1 1
+winlong 1 1
+linuxandroid 3 3
+win7 15 14
+symbian 1 1
+linux 5 5
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 30
+opera45.0.2552.812 1 1
+firefox27.0 1 1
+opera11.2.3.102637 2 2
+chrome57.0.2987.133 1 1
+chrome61.0.3163.100 23 23
+chrome31.0.1650.57 1 1
+chrome58.0.3029.96 1 1
+msie9.0 1 1
+chrome66.0.3359.139 18 3
+firefox51.0 1 1
+firefox52.0 1 1
+chrome37.0.2062.120 2 2
+chrome45.0.2454.94 1 1
+msie8.0 2 2
+chrome66.0.3349.0 1 1
+lynx 2 2
+chrome58.0.3029.110 1 1
+mozilla 18 18
+chrome12.0.702.0 1 1
+firefox33.0 1 0
+chrome40.0.2214.85 4 4
+chrome65.0.3325.181 2 2
+firefox53.0 1 1
+msie7.0 1 1
+firefox3.6.8 1 1
+nokia 1 1
+chrome62.0.3202.94 2 2
+Unknown 1 1
+chrome34.0.1847.116 1 1
+firefox59.0 2 2
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 8
+Mozilla/6.0_(compatible) 20180520232539
+Mozilla/5.0_zgrab/0.x_(compatible;_Researchscan/t12ca;__http://researchscan.comsys.rwth-aachen.de) 20180531050838
+Mozilla/5.0_zgrab/0.x_(compatible;_Researchscan/t12sns;__http://researchscan.comsys.rwth-aachen.de) 20180531050838
+Mozilla/5.0_(compatible;_ips-agent) 20180518210526
+Lynx/2.8.9dev.8_libwww-FM/2.14_SSL-MM/1.4.1_GNUTLS/3.4.9 20180518000233
+python-requests/2.18.4 20180513205316
+Mozilla/5.0_(compatible;_Dataprovider.com;) 20180508060559
+Mozilla/5.0_zgrab/0.x_(compatible;_Researchscan/t13rl;__http://researchscan.comsys.rwth-aachen.de) 20180524072055
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+python-requests/2.18.4 20180513205316
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 67 68
+From1 0 0
+From2 0 0
+From3 2 2
+From4 11 26
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 2
+http://pizza-tycoon.com 1 1
+http://burger-imperia.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 1
+404 60 5196039
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 20
+/README.txt 1 -
+/ads.txt 1 -
+/shell.php 1 -
+/web-cache.php 3 -
+/xmlrpc-activate.php 1 -
+/controller.php 1 -
+/downloader/ 1 -
+/blog/ 1 http://tlati.com/blog/
+/index.php 1 -
+/wp-post.php 1 -
+/include-sql.php 1 -
+/configuration.php 1 -
+/language/en-GB/en-GB.xml 1 -
+/application/configs/application.ini 1 -
+/lieats.php 1 -
+/roots.php 1 -
+/robots.txt 39 -
+/js/mage/cookies.js 1 tlati.com
+/Marvins.php 1 -
+/gtde.php 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 42
+13.56.232.243 11 11 7524 20180530234735
+54.215.254.26 7 7 4788 20180529032245
+163.172.4.153 7 7 4788 20180531175038
+137.226.113.27 4 4 2736 20180525051952
+137.226.113.26 4 4 2736 20180531050838
+167.114.158.57 4 4 2052 20180508060601
+189.216.96.233 3 18 380400 20180510223749
+52.173.241.248 2 2 1368 20180525024307
+54.67.59.131 2 2 1368 20180506073849
+54.183.165.74 2 2 1368 20180505184737
+137.226.113.28 2 2 1368 20180517141800
+52.173.245.249 2 2 1368 20180517041805
+138.246.253.19 2 2 0 20180531111426
+106.120.161.68 1 1 684 20180501015653
+51.15.55.185 1 1 684 20180512023152
+93.115.95.201 1 1 684 20180513093830
+64.246.161.42 1 1 684 20180517090740
+120.35.150.167 1 1 684 20180508164813
+46.101.9.216 1 1 684 20180519175859
+35.162.27.131 1 1 684 20180514005648
+34.210.166.248 1 1 684 20180509214240
+69.58.178.56 1 1 684 20180518210526
+216.170.118.141 1 1 684 20180513205316
+138.246.253.5 1 1 0 20180518041051
+82.80.244.59 1 1 684 20180520232539
+82.80.230.228 0 1 2592 
+137.226.113.33 1 1 684 20180511140617
+5.45.75.6 1 1 684 20180519101349
+89.234.68.76 1 1 684 20180530055105
+95.181.179.33 1 1 684 20180512191520
+185.220.101.30 1 1 684 20180512220047
+138.201.60.47 1 1 684 20180504002521
+91.210.145.79 1 1 684 20180513135329
+101.199.112.51 1 1 684 20180501015719
+51.15.95.103 1 1 684 20180518000233
+101.199.112.49 1 1 684 20180501015724
+82.80.249.214 1 1 684 20180520232530
+183.212.1.245 1 1 684 20180510174730
+38.100.21.61 1 1 684 20180505032706
+194.44.247.218 1 1 684 20180528215236
+106.120.160.109 1 1 684 20180501015651
+176.8.46.244 1 1 0 20180503154312
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 28
+20180501 6 6 4104 6
+20180503 2 2 684 2
+20180504 2 2 1368 2
+20180505 2 2 1368 2
+20180506 2 2 1368 2
+20180507 1 1 684 1
+20180508 6 6 3420 3
+20180509 2 2 1368 2
+20180510 5 20 381768 3
+20180511 2 2 1368 2
+20180512 3 3 2052 3
+20180513 4 4 2736 4
+20180514 3 3 2052 3
+20180517 6 6 4104 6
+20180518 6 6 3420 6
+20180519 3 3 2052 3
+20180520 4 4 2736 4
+20180521 0 1 2592 0
+20180522 1 1 684 1
+20180523 2 2 1368 2
+20180524 3 3 2052 3
+20180525 3 3 1368 3
+20180526 2 2 1368 2
+20180527 1 1 684 1
+20180528 2 2 1368 2
+20180529 1 1 684 1
+20180530 2 2 1368 2
+20180531 4 4 2052 3
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 1
+0s-30s 74
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 3
+/ 78 49932 73 74
+/admin/ 1 3595 1 0
+/sitemap.xml 1 0 0 0
+END_SIDER

@@ -1,0 +1,28 @@
+; cPanel first:11.62.0.30 (update_time):1510158794 11.62.0.30: Cpanel::ZoneFile::VERSION:1.3 hostname:cp-51.webhostbox.net latest:11.62.0.30
+; Zone file for tlati.com
+$TTL 14400
+@      86400	IN      SOA     ns1.cp-51.webhostbox.net. cpanel.webhostbox.net. (
+		2017110803	; serial, todays date+todays
+		3600		; refresh, seconds
+		7200		; retry, seconds
+		1209600		; expire, seconds
+		86400 )		; minimum, seconds
+
+tlati.com. 86400 IN NS ns1.cp-51.webhostbox.net.
+tlati.com. 86400 IN NS ns2.cp-51.webhostbox.net.
+
+
+tlati.com. IN A 209.99.16.119
+
+tlati.com. IN MX 0 tlati.com.
+
+mail IN CNAME tlati.com.
+www IN CNAME tlati.com.
+ftp IN A 209.99.16.119
+cpanel IN A 209.99.16.119
+webdisk IN A 209.99.16.119
+cpcalendars IN A 209.99.16.119
+cpcontacts IN A 209.99.16.119
+whm IN A 209.99.16.119
+webmail IN A 209.99.16.119
+default._domainkey IN TXT "v=DKIM1; k=rsa; p=MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtC6qonBEY7MtlkQoTnOO7i6KlxVl53oRNxmgkOW49gGOc5ZVZWIqwNfJqEEP34GO1x1adIegJJKq5tTcuaCrfHdPF+GmUqEizU+IlCs/sNtE24uBJbd5nN42kmmTADPP75jCq8rE89ZpcmSquo1vv6AMZ+fH6sbpjg+sRq03sxkOtNY/usNkwLFsLcS6+bKaC" pAOU0cZKoTRqtgPWZQMmB3XxhlIl+CFJdaLQ3PS+eZeEu0uJHQsX+tjZtLZ4Ihw+3HsTW/iZT6lGSw4m7jjymoRN7rO8PeEOFW8vD6IPWw0B3JxaMr0JNuh0bI04qD1mcgXPeSUVjioiOyhAToVzwIDAQAB\;
