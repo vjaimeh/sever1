@@ -1,0 +1,64 @@
+05-Aug-2020 02:40:37.087 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/8.5.35
+05-Aug-2020 02:40:37.170 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Nov 3 2018 17:39:20 UTC
+05-Aug-2020 02:40:37.170 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         8.5.35.0
+05-Aug-2020 02:40:37.171 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Linux
+05-Aug-2020 02:40:37.171 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            3.10.0-862.3.2.el7.x86_64
+05-Aug-2020 02:40:37.171 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+05-Aug-2020 02:40:37.171 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /usr/lib/jvm/java-1.8.0-openjdk-1.8.0.191.b12-0.el7_5.x86_64/jre
+05-Aug-2020 02:40:37.171 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_191-b12
+05-Aug-2020 02:40:37.171 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+05-Aug-2020 02:40:37.171 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /opt/tomcat/apache-tomcat-8.5.35
+05-Aug-2020 02:40:37.171 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /opt/tomcat/apache-tomcat-8.5.35
+05-Aug-2020 02:40:37.172 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/opt/tomcat/latest/conf/logging.properties
+05-Aug-2020 02:40:37.172 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+05-Aug-2020 02:40:37.172 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.security.egd=file:///dev/urandom
+05-Aug-2020 02:40:37.172 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+05-Aug-2020 02:40:37.172 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+05-Aug-2020 02:40:37.172 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+05-Aug-2020 02:40:37.172 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Xms512M
+05-Aug-2020 02:40:37.172 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Xmx1024M
+05-Aug-2020 02:40:37.172 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -XX:+UseParallelGC
+05-Aug-2020 02:40:37.173 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+05-Aug-2020 02:40:37.173 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/opt/tomcat/latest
+05-Aug-2020 02:40:37.173 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/opt/tomcat/latest
+05-Aug-2020 02:40:37.173 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/opt/tomcat/latest/temp
+05-Aug-2020 02:40:37.173 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib]
+05-Aug-2020 02:40:37.423 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+05-Aug-2020 02:40:37.546 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+05-Aug-2020 02:40:37.557 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+05-Aug-2020 02:40:37.558 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+05-Aug-2020 02:40:37.574 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 2822 ms
+05-Aug-2020 02:40:37.620 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+05-Aug-2020 02:40:37.620 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.5.35
+05-Aug-2020 02:40:37.669 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/opt/tomcat/apache-tomcat-8.5.35/webapps/ROOT.war]
+05-Aug-2020 02:40:38.525 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/opt/tomcat/apache-tomcat-8.5.35/webapps/ROOT.war] has finished in [855] ms
+05-Aug-2020 02:40:38.551 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/opt/tomcat/apache-tomcat-8.5.35/webapps/pos112b.war]
+05-Aug-2020 02:40:38.898 INFO [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Aug-2020 02:40:38.900 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/opt/tomcat/apache-tomcat-8.5.35/webapps/pos112b.war] has finished in [349] ms
+05-Aug-2020 02:40:38.904 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/opt/tomcat/apache-tomcat-8.5.35/webapps/docs]
+05-Aug-2020 02:40:38.930 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/opt/tomcat/apache-tomcat-8.5.35/webapps/docs] has finished in [26] ms
+05-Aug-2020 02:40:38.930 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/opt/tomcat/apache-tomcat-8.5.35/webapps/examples]
+05-Aug-2020 02:40:39.589 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/opt/tomcat/apache-tomcat-8.5.35/webapps/examples] has finished in [659] ms
+05-Aug-2020 02:40:39.589 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/opt/tomcat/apache-tomcat-8.5.35/webapps/host-manager]
+05-Aug-2020 02:40:39.634 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/opt/tomcat/apache-tomcat-8.5.35/webapps/host-manager] has finished in [45] ms
+05-Aug-2020 02:40:39.634 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/opt/tomcat/apache-tomcat-8.5.35/webapps/manager]
+05-Aug-2020 02:40:39.667 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/opt/tomcat/apache-tomcat-8.5.35/webapps/manager] has finished in [33] ms
+05-Aug-2020 02:40:39.667 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/opt/tomcat/apache-tomcat-8.5.35/webapps/pos112bTerminal]
+05-Aug-2020 02:40:39.691 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/opt/tomcat/apache-tomcat-8.5.35/webapps/pos112bTerminal] has finished in [24] ms
+05-Aug-2020 02:40:39.708 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+05-Aug-2020 02:40:39.719 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+05-Aug-2020 02:40:39.722 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 2148 ms
+05-Aug-2020 07:24:44.459 INFO [http-nio-8080-exec-4] org.apache.coyote.http11.Http11Processor.service Error parsing HTTP request header
+ Note: further occurrences of HTTP header parsing errors will be logged at DEBUG level.
+ java.lang.IllegalArgumentException: Invalid character found in method name. HTTP method names must be tokens
+	at org.apache.coyote.http11.Http11InputBuffer.parseRequestLine(Http11InputBuffer.java:428)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:684)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:806)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1498)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+

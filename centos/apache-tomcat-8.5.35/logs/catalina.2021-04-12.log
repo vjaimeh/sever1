@@ -1,0 +1,15 @@
+12-Apr-2021 13:37:46.228 INFO [http-nio-8080-exec-3] org.apache.coyote.http11.Http11Processor.service Error parsing HTTP request header
+ Note: further occurrences of HTTP header parsing errors will be logged at DEBUG level.
+ java.lang.IllegalArgumentException: Invalid character found in method name. HTTP method names must be tokens
+	at org.apache.coyote.http11.Http11InputBuffer.parseRequestLine(Http11InputBuffer.java:428)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:684)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:806)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1498)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+12-Apr-2021 16:30:21.203 INFO [http-nio-8080-exec-7] org.apache.tomcat.util.http.parser.Cookie.logInvalidHeader A cookie header was received [[Config]=Q2FrZQ%3D%3D.VFkUD3Byour1NiCqhGyfgdaN6WY%3D; TCSESSIONID=7953232013725288B2F3DFD8A306818B; AIROS_24A43C7E9921=73b21b412b4b9b28be77e7bef4fc4a32; AIROS_44D9E7269F63=e7c06a9bd352d1a52e45bfdeb5aa714a; JSESSIONID_FO=3962485D44FE9B856C1CE031A7E12262; AIROS_002722E04DD1=f02899e840d05e9138fcc6d267125339; HWWAFSESID=43e8173929324343cf; HWWAFSESTIME=1618244975590; oc3mu2p2uo5m=757be42417b0886192cada7aa259e59c; day1host=h; AIROS_802AA826EE30=1c9c063ae74b025ead718105e8c1df5f; SHRIOSESSIONID=cbdf0691-5a81-48de-9cec-8bdcbda2c5fd; grafana_sess=65db91ccdbf825b8; OTTER_WEBX_JSESSIONID0=eNrz4A12DQ729PeL9%2FV3cfUxCK%2FOTLFSCvFx87aI0jVwNveNCHSMCPPxtnAzDfZ29zcNM9T1tYgyD3H189YNdnVW0kkusTI0M7QwMjGxsDA2MrbQSUxGE8itsDKojQIA9VYb2g%3D%3D; uid=ZcmbxWB0dYAUdgcrA0Z1Ag==; session=eyJjc3JmX3Rva2VuIjoiNGE1ODNmZDRjMDY4Yjg2ZTRlNDZmMTlhODNiZThmOGZlNTI0NGMzMiJ9.YHR1jg.Hu9lD4A5jDdOdm3xJZ8YB-5sEGE; lang=en-US; i_like_gogits=252d3d962effd257; CLUSTOR_SID=065CB03D000178C6EB226CF11782E8E014553BABFE2681; BT_PANEL_6=f90df380-a65b-49eb-bb06-7f7903fd7d49.gE7arfyRaFD-apjP5bWMTWs1mRE; tm_tc_sessionid=5C1A8FF9696776BA0D3413F385FEE485; oc0g1snw6gr5=ejvejrgoptepioepd0u0dib9p6; next-i18next=en; AIROS_788A20AA1587=73e756a56b154a2fd7a91d3b40ddc656; sharelatex.sid=s%3ARC3RBxAddNUaH5Hfv2MHisRXzYC8IDI-.mXEtEsx9W4NJMq%2B601FE0%2BDGcoeweii%2FDdZhxya3SRA; domain=mortemapi.com; PORTALSESSIONID=5C60A2E9648CFE118764FC826362E2DB.portal2; bots_config0=079301604aeab417ca8cd1b6c7c6278d; sessionid=5C1A8FF9696776BA0D3413F385FEE485; AIROS_24A43C7E19A4=5b1cf1800bcb0ca668fbf4f9581bc287; JSESSIONID.1091e045=node08sco2fu43v28p5q3pbo6xfvv10655.node0; NoName_Web=2iovf2ptl8h98ljk4hqjmsm1bnsimjpr; JSESSIONID=-n_pZwnodvE_EgxL-1QwXtB2Lfj6QpfImOjE9dwi.10.111.22.14] that contained an invalid cookie. That cookie will be ignored.Note: further occurrences of this error will be logged at DEBUG level.

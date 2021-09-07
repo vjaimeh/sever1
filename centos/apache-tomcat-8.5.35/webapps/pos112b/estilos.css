@@ -1,0 +1,39 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 26/09/2018, 11:59:44 PM
+    Author     : Sensei
+*/
+
+body{
+    font-family: arial, sans-serif;
+}
+
+table {
+    font-size: 12px;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 4px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+.numero{
+    text-align: right;
+}
+
+
+.thSucursal{width: 80px;}
+.thAlmacen{width: 80px;}
+.thDepartamento{width: 140px;}
+.thProductoNombre{width: 280px;}
+.thTotal{width: 80px;}

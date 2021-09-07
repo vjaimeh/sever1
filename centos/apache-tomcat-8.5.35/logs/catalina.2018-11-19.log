@@ -1,0 +1,18 @@
+19-Nov-2018 13:41:57.291 INFO [http-nio-8080-exec-33] org.apache.coyote.AbstractProcessor.parseHost The host [[52.1.113.227]:8080] is not valid
+ Note: further occurrences of request parsing errors will be logged at DEBUG level.
+ java.lang.IllegalArgumentException: The IPv6 address contains an embedded IPv4 address at an invalid location.
+	at org.apache.tomcat.util.http.parser.HttpParser.readHostIPv6(HttpParser.java:804)
+	at org.apache.tomcat.util.http.parser.Host.parse(Host.java:70)
+	at org.apache.tomcat.util.http.parser.Host.parse(Host.java:40)
+	at org.apache.coyote.AbstractProcessor.parseHost(AbstractProcessor.java:292)
+	at org.apache.coyote.http11.Http11Processor.prepareRequest(Http11Processor.java:1203)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:776)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:806)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1498)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
