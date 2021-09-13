@@ -1,0 +1,15 @@
+13-Jul-2019 01:42:01.541 INFO [http-nio-8080-exec-9] org.apache.tomcat.util.http.parser.Cookie.logInvalidHeader A cookie header was received [[Platform]=Q2FrZQ%3D%3D.Zh69; JSESSIONID.9b976758=node01u9vemejrsul61mswqq2pjw9vm1004.node0; COOKIE_SUPPORT=true; GUEST_LANGUAGE_ID=en_US; userLocale=en_US; AWSELB=6FA34BD70280FB20030D1F43CC38EBF73193A9D2F0443228B3636B1C0FA994984E945A0836C6C2117B7AE01292450BD465E7CD11D0EC58FC68C4955FCA7FAE6BC76D7FAC4F; opvc=b9b56cdc-b3de-4430-b409-ca4a20dc0ed1; sitevisitscookie=1; dmid=292e5bd5-87dc-4f49-ab62-d9bf8a5f3730; JSESSIONID.3434a9af=node0jdmoxdg5f9ffy4eb1p6vqnqu3652.node0; atlassian.xsrf.token=B6T8-1QF3-FAZF-NBOR|026151798a3e7868924fabf367bd98f5ca52d61e|lout; AWSALB=1Lvdf3ypuy0J7zuyr/Ipw4eQ8zrYUco8Lj60Ln4ohw+iJG+UYnqX6GWu2nIMLHpZ/FUnkF982qHrgE0BdPWQTGVqWjrziYj0Zb3pYRNt9H+bOOGrASlRCFj3JoaP; csrftoken=om51RQ4fFMVdcJsQGs3SnBkcoefJ6Pa1oEXUYzZKF5ZwTHVoDTZ4iJGCtsqwJxSo; JSESSIONID.2ea982ae=8ar33tw0n54w12h5ujte9zxxp; JSESSIONID.5966e13b=node0cxixqblvtwtq1pl3mgcj48t4s50288.node0; JSESSIONID.e0052aa0=node01rm3tgqmcxy3l1d2u1sqgvgy9x5367334.node0; omentisCookie=d6e1b7cc-0cef-4284-bf17-0e07a3cb26ab; JSESSIONID.c73191ec=node0cuaearattd9w1v6j4yfqgyaiy111.node0; language=bg; currency=BGN; SESSdab19e82e1f9a681ee73346d3e7a575e=914dad5035b9db3d1f89fa01f37075b3; SESSdf138f04712439d4ecaf2fa473b98d49=3312d85e4a1d35da00274de581e11a6c; _zk_sc_tc2=1; BAIDUID=86E50892247D722788BEAB2F14FBF907:FG=1; BIDUPSID=86E50892247D722788BEAB2F14FBF907; PSTM=1562954851; wsfMobile=0; __cfduid=de5e2b12c8ca10d5df8aa1a03699b871d1562959395; session=774bb507-78ee-4d04-a364-dc207a7f678a; ANONYMOUS_USER_ID=150135; logsrid=2d6b21a37821d244d3320e7ce3-20190712.8106; safedog-flow-item=; GUEST_LANGUAGE_ID=en_US; Wiener LANG=FR; SESSeceb28b70500b741f3baaea651c6ec82=C8YNrz0hRUoMBesNBYZqxIjXzVoNTcRgT2yKv9gPNBI] that contained an invalid cookie. That cookie will be ignored.Note: further occurrences of this error will be logged at DEBUG level.
+13-Jul-2019 18:37:48.606 INFO [http-nio-8080-exec-2] org.apache.coyote.http11.Http11Processor.service Error parsing HTTP request header
+ Note: further occurrences of HTTP header parsing errors will be logged at DEBUG level.
+ java.lang.IllegalArgumentException: Invalid character found in method name. HTTP method names must be tokens
+	at org.apache.coyote.http11.Http11InputBuffer.parseRequestLine(Http11InputBuffer.java:428)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:684)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:806)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1498)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+

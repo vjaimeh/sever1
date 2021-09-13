@@ -1,0 +1,49 @@
+[05-Oct-2017 20:13:53 America/Mexico_City] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'appbequi_tienda'@'localhost' (using password: YES) in /home/appbequi/public_html/tienda/system/database/mysqli.php on line 6
+[05-Oct-2017 20:13:53 America/Mexico_City] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Error: Could not make a database link (1045) Access denied for user 'appbequi_tienda'@'localhost' (using password: YES)' in /home/appbequi/public_html/tienda/system/database/mysqli.php:9
+Stack trace:
+#0 /home/appbequi/public_html/tienda/system/library/db.php(13): DBMySQLi->__construct('localhost', 'appbequi_tienda', 'ienda2010*', 'appbequi_tienda')
+#1 /home/appbequi/public_html/tienda/admin/index.php(37): DB->__construct('mysqli', 'localhost', 'appbequi_tienda', 'ienda2010*', 'appbequi_tienda')
+#2 {main}
+  thrown in /home/appbequi/public_html/tienda/system/database/mysqli.php on line 9
+[05-Oct-2017 20:14:02 America/Mexico_City] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'appbequi_tienda'@'localhost' (using password: YES) in /home/appbequi/public_html/tienda/system/database/mysqli.php on line 6
+[05-Oct-2017 20:14:02 America/Mexico_City] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Error: Could not make a database link (1045) Access denied for user 'appbequi_tienda'@'localhost' (using password: YES)' in /home/appbequi/public_html/tienda/system/database/mysqli.php:9
+Stack trace:
+#0 /home/appbequi/public_html/tienda/system/library/db.php(13): DBMySQLi->__construct('localhost', 'appbequi_tienda', 'ienda2010*', 'appbequi_tienda')
+#1 /home/appbequi/public_html/tienda/admin/index.php(37): DB->__construct('mysqli', 'localhost', 'appbequi_tienda', 'ienda2010*', 'appbequi_tienda')
+#2 {main}
+  thrown in /home/appbequi/public_html/tienda/system/database/mysqli.php on line 9
+[05-Oct-2017 20:14:04 America/Mexico_City] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'appbequi_tienda'@'localhost' (using password: YES) in /home/appbequi/public_html/tienda/system/database/mysqli.php on line 6
+[05-Oct-2017 20:14:04 America/Mexico_City] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Error: Could not make a database link (1045) Access denied for user 'appbequi_tienda'@'localhost' (using password: YES)' in /home/appbequi/public_html/tienda/system/database/mysqli.php:9
+Stack trace:
+#0 /home/appbequi/public_html/tienda/system/library/db.php(13): DBMySQLi->__construct('localhost', 'appbequi_tienda', 'ienda2010*', 'appbequi_tienda')
+#1 /home/appbequi/public_html/tienda/admin/index.php(37): DB->__construct('mysqli', 'localhost', 'appbequi_tienda', 'ienda2010*', 'appbequi_tienda')
+#2 {main}
+  thrown in /home/appbequi/public_html/tienda/system/database/mysqli.php on line 9
+[05-Oct-2017 20:14:06 America/Mexico_City] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'appbequi_tienda'@'localhost' (using password: YES) in /home/appbequi/public_html/tienda/system/database/mysqli.php on line 6
+[05-Oct-2017 20:14:06 America/Mexico_City] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Error: Could not make a database link (1045) Access denied for user 'appbequi_tienda'@'localhost' (using password: YES)' in /home/appbequi/public_html/tienda/system/database/mysqli.php:9
+Stack trace:
+#0 /home/appbequi/public_html/tienda/system/library/db.php(13): DBMySQLi->__construct('localhost', 'appbequi_tienda', 'ienda2010*', 'appbequi_tienda')
+#1 /home/appbequi/public_html/tienda/admin/index.php(37): DB->__construct('mysqli', 'localhost', 'appbequi_tienda', 'ienda2010*', 'appbequi_tienda')
+#2 {main}
+  thrown in /home/appbequi/public_html/tienda/system/database/mysqli.php on line 9
+[05-Oct-2017 20:14:29 America/Mexico_City] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'appbequi_tienda'@'localhost' (using password: YES) in /home/appbequi/public_html/tienda/system/database/mysqli.php on line 6
+[05-Oct-2017 20:14:29 America/Mexico_City] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Error: Could not make a database link (1045) Access denied for user 'appbequi_tienda'@'localhost' (using password: YES)' in /home/appbequi/public_html/tienda/system/database/mysqli.php:9
+Stack trace:
+#0 /home/appbequi/public_html/tienda/system/library/db.php(13): DBMySQLi->__construct('localhost', 'appbequi_tienda', 'ienda2010*', 'appbequi_tienda')
+#1 /home/appbequi/public_html/tienda/admin/index.php(37): DB->__construct('mysqli', 'localhost', 'appbequi_tienda', 'ienda2010*', 'appbequi_tienda')
+#2 {main}
+  thrown in /home/appbequi/public_html/tienda/system/database/mysqli.php on line 9
+[05-Oct-2017 20:14:35 America/Mexico_City] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'appbequi_tienda'@'localhost' (using password: YES) in /home/appbequi/public_html/tienda/system/database/mysqli.php on line 6
+[05-Oct-2017 20:14:35 America/Mexico_City] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Error: Could not make a database link (1045) Access denied for user 'appbequi_tienda'@'localhost' (using password: YES)' in /home/appbequi/public_html/tienda/system/database/mysqli.php:9
+Stack trace:
+#0 /home/appbequi/public_html/tienda/system/library/db.php(13): DBMySQLi->__construct('localhost', 'appbequi_tienda', 'ienda2010*', 'appbequi_tienda')
+#1 /home/appbequi/public_html/tienda/admin/index.php(37): DB->__construct('mysqli', 'localhost', 'appbequi_tienda', 'ienda2010*', 'appbequi_tienda')
+#2 {main}
+  thrown in /home/appbequi/public_html/tienda/system/database/mysqli.php on line 9
+[05-Oct-2017 20:16:09 America/Mexico_City] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'appbequi_tienda'@'localhost' (using password: YES) in /home/appbequi/public_html/tienda/system/database/mysqli.php on line 6
+[05-Oct-2017 20:16:09 America/Mexico_City] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Error: Could not make a database link (1045) Access denied for user 'appbequi_tienda'@'localhost' (using password: YES)' in /home/appbequi/public_html/tienda/system/database/mysqli.php:9
+Stack trace:
+#0 /home/appbequi/public_html/tienda/system/library/db.php(13): DBMySQLi->__construct('localhost', 'appbequi_tienda', 'ienda2010*', 'appbequi_tienda')
+#1 /home/appbequi/public_html/tienda/admin/index.php(41): DB->__construct('mysqli', 'localhost', 'appbequi_tienda', 'ienda2010*', 'appbequi_tienda')
+#2 {main}
+  thrown in /home/appbequi/public_html/tienda/system/database/mysqli.php on line 9

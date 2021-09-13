@@ -1,0 +1,7 @@
+[14-Oct-2017 19:44:25 America/Mexico_City] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/appbequi/public_html/tienda/system/database/mysqli.php on line 6
+[14-Oct-2017 19:44:25 America/Mexico_City] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Error: Could not make a database link (1040) Too many connections' in /home/appbequi/public_html/tienda/system/database/mysqli.php:9
+Stack trace:
+#0 /home/appbequi/public_html/tienda/system/library/db.php(13): DBMySQLi->__construct('localhost', 'appbequi_tienda', 'tienda2010*', 'appbequi_tienda')
+#1 /home/appbequi/public_html/tienda/index.php(41): DB->__construct('mysqli', 'localhost', 'appbequi_tienda', 'tienda2010*', 'appbequi_tienda')
+#2 {main}
+  thrown in /home/appbequi/public_html/tienda/system/database/mysqli.php on line 9
